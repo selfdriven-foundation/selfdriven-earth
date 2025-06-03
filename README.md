@@ -6,6 +6,9 @@
 ### Scope
 - Community needs
 
+### References
+- [Community Progressive Self-Actuation Framework](https://docs.selfdriven.foundation/on-boarding)
+
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
