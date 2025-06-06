@@ -8,6 +8,7 @@
 
 ### References
 - [Community Progressive Self-Actuation Framework](https://docs.selfdriven.foundation/on-boarding)
+- [selfdriven.finance](https://selfdriven.finance)
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
