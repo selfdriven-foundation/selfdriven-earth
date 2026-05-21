@@ -3,8 +3,18 @@ layout: default
 title: Home
 ---
 
-# Welcome
+## Organisational systems for a self-driven Earth.
 
-Focused on communities that value growth...
+### Status
+- Research & Development
 
-{% include cards.html %}
+### Scope
+- Community needs
+
+### References
+- [Community Progressive Self-Actuation Framework](https://docs.selfdriven.fyi/on-boarding)
+- [selfdriven.finance](https://selfdriven.finance)
+
+### Contact Us
+- [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
+- [selfdriven.fyi/connect](https://selfdriven.fyi/connect)
