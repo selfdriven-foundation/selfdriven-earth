@@ -3,18 +3,6 @@ layout: selfdriven
 title: Home
 ---
 
-## Organisational systems for a self-driven Earth.
+## Organisational systems for a selfdriven Earth.
 
-### Status
-- Research & Development
-
-### Scope
-- Community needs
-
-### References
-- [Community Progressive Self-Actuation Framework](https://docs.selfdriven.fyi/on-boarding)
-- [selfdriven.finance](https://selfdriven.finance)
-
-### Contact Us
-- [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
-- [selfdriven.fyi/connect](https://selfdriven.fyi/connect)
+Supported by the [selfdriven.foundation[(https://selfdriven.foundation)].
