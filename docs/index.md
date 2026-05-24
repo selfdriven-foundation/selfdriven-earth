@@ -1,6 +1,6 @@
 ---
 layout: selfdriven
-title: Home
+title: selfdriven Earth
 ---
 
 ## Organisational systems for a selfdriven Earth.
