@@ -7,4 +7,4 @@ title: Home
 
 Moving from extractive to generative.
 
-Supported by the [selfdriven.foundation[(https://selfdriven.foundation)].
+Supported by the [selfdriven.foundation](https://selfdriven.foundation).
